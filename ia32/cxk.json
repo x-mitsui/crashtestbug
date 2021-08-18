@@ -1,6 +1,9 @@
 
 {
-	"version":"2.0.2",
-	"arch":"ia32",
-	"downloadUrl":"https://raw.githubusercontent.com/x-mitsui/crashtestbug/master/RTS-Setup-ia32-2.0.2.exe"
+	"code":0,
+	"data":{
+		"version":"2.0.2",
+		"arch":"ia32",
+		"downloadUrl":"https://raw.githubusercontent.com/x-mitsui/crashtestbug/master/RTS-Setup-ia32-2.0.2.exe"
+	}
 }
