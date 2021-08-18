@@ -1,7 +1,7 @@
 {
 	"code":0,
 	"data":{
-		"version":"2.0.2",
+		"version":"2.0.3",
 		"arch":"x64",
 		"downloadUrl":"https://raw.githubusercontent.com/x-mitsui/crashtestbug/master/RTS-Setup-x64-2.0.2.exe"
 	}	
